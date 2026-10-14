@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724564541588",
+    "project_id": "call-assistant-leadzam",
+    "storage_bucket": "call-assistant-leadzam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724564541588:android:6e045593944aafdcd47481",
+        "android_client_info": {
+          "package_name": "com.ashish.leadzam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhiit1uASqVFt2iJc_mdixZusz-zw1jpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
